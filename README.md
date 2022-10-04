@@ -10,7 +10,7 @@ File **scripts.py** contain all the scripts about Hackerrank's exercise.
 File **esercizi.pdf** contain all the scripts about Hackerrank's exercise, but in pdf format, is more readable.
 
 ## scripts.ipynb
-File **escripts.ipynb** contain all the scripts about Hackerrank's exercise, but in jupyter-notebook.
+File **escripts.ipynb** contain all the scripts about Hackerrank's exercise, but in jupyter-notebook format.
 
 
 
