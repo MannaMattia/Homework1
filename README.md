@@ -3,7 +3,7 @@
 ## Find the pdf file with submission
 The pdf file that contain the submission from Hackerrank is called **"submissions.pdf"**.  
 
-## scripts.pt
+## scripts.py
 File **scripts.py** contain all the scripts about Hackerrank's exercise.
 
 ## esercizi.pdf
